@@ -1,0 +1,387 @@
+,Year,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Position_x,Country_x,Image_x,Position_y,Country_y,Image_y
+0,1994,Spain,2,2,Korea Republic, ,9.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,37.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+1,1994,Germany,1,0,Bolivia, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,43.0,Bolivia,https://api.fifa.com/api/v1/picture/flags-sq-4/bol
+2,1994,USA,1,1,Switzerland, ,23.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,8.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+3,1994,Italy,0,1,"rn"">Republic of Ireland", ,16.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,,,
+4,1994,Colombia,1,3,Romania, ,18.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col,10.0,Romania,https://api.fifa.com/api/v1/picture/flags-sq-4/rou
+5,1994,Belgium,1,0,Morocco, ,34.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,30.0,Morocco,https://api.fifa.com/api/v1/picture/flags-sq-4/mar
+6,1994,Norway,1,0,Mexico, ,4.0,Norway,https://api.fifa.com/api/v1/picture/flags-sq-4/nor,13.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+7,1994,Cameroon,2,2,Sweden, ,24.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,3.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe
+8,1994,Netherlands,2,1,Saudi Arabia, ,11.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,35.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa
+9,1994,Brazil,2,0,Russia, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,20.0,Russia,https://api.fifa.com/api/v1/picture/flags-sq-4/rus
+10,1994,Argentina,4,0,Greece, ,6.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,32.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre
+11,1994,Nigeria,3,0,Bulgaria, ,7.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,29.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul
+12,1994,Germany,1,1,Spain, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,9.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+13,1994,Romania,1,4,Switzerland, ,10.0,Romania,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,8.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+14,1994,USA,2,1,Colombia, ,23.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,18.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col
+15,1994,Italy,1,0,Norway, ,16.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,4.0,Norway,https://api.fifa.com/api/v1/picture/flags-sq-4/nor
+16,1994,Korea Republic,0,0,Bolivia, ,37.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,43.0,Bolivia,https://api.fifa.com/api/v1/picture/flags-sq-4/bol
+17,1994,Mexico,2,1,"rn"">Republic of Ireland", ,13.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,,,
+18,1994,Sweden,3,1,Russia, ,3.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,20.0,Russia,https://api.fifa.com/api/v1/picture/flags-sq-4/rus
+19,1994,Brazil,3,0,Cameroon, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,24.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr
+20,1994,Belgium,1,0,Netherlands, ,34.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,11.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+21,1994,Saudi Arabia,2,1,Morocco, ,35.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,30.0,Morocco,https://api.fifa.com/api/v1/picture/flags-sq-4/mar
+22,1994,Argentina,2,1,Nigeria, ,6.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,7.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+23,1994,Bulgaria,4,0,Greece, ,29.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,32.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre
+24,1994,USA,0,1,Romania, ,23.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,10.0,Romania,https://api.fifa.com/api/v1/picture/flags-sq-4/rou
+25,1994,Switzerland,0,2,Colombia, ,8.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,18.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col
+26,1994,Germany,3,2,Korea Republic, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,37.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+27,1994,Bolivia,1,3,Spain, ,43.0,Bolivia,https://api.fifa.com/api/v1/picture/flags-sq-4/bol,9.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+28,1994,"rn"">Republic of Ireland",0,0,Norway, ,,,,4.0,Norway,https://api.fifa.com/api/v1/picture/flags-sq-4/nor
+29,1994,Brazil,1,1,Sweden, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,3.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe
+30,1994,Italy,1,1,Mexico, ,16.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,13.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+31,1994,Russia,6,1,Cameroon, ,20.0,Russia,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,24.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr
+32,1994,Morocco,1,2,Netherlands, ,30.0,Morocco,https://api.fifa.com/api/v1/picture/flags-sq-4/mar,11.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+33,1994,Belgium,0,1,Saudi Arabia, ,34.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,35.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa
+34,1994,Greece,0,2,Nigeria, ,32.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,7.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+35,1994,Argentina,0,2,Bulgaria, ,6.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,29.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul
+36,1994,Germany,3,2,Belgium, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,34.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel
+37,1994,Spain,3,0,Switzerland, ,9.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,8.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+38,1994,Saudi Arabia,1,3,Sweden, ,35.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,3.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe
+39,1994,Romania,3,2,Argentina, ,10.0,Romania,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,6.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+40,1994,Netherlands,2,0,"rn"">Republic of Ireland", ,11.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,,,
+41,1994,Brazil,1,0,USA, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,23.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+42,1994,Nigeria,1,2,Italy,Italy win after extra time ,7.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,16.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+43,1994,Mexico,1,1,Bulgaria,Bulgaria win on penalties (1 - 3) ,13.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,29.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul
+44,1994,Italy,2,1,Spain, ,16.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,9.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+45,1994,Netherlands,2,3,Brazil, ,11.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+46,1994,Bulgaria,2,1,Germany, ,29.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+47,1994,Romania,2,2,Sweden,Sweden win on penalties (4 - 5) ,10.0,Romania,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,3.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe
+48,1994,Bulgaria,1,2,Italy, ,29.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul,16.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+49,1994,Sweden,0,1,Brazil, ,3.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+50,1994,Sweden,4,0,Bulgaria, ,3.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,29.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul
+51,1994,Brazil,0,0,Italy,Brazil win on penalties (3 - 2) ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,16.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+52,1998,Brazil,2,1,Scotland, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,41.0,Scotland,https://api.fifa.com/api/v1/picture/flags-sq-4/sco
+53,1998,Morocco,2,2,Norway, ,13.0,Morocco,https://api.fifa.com/api/v1/picture/flags-sq-4/mar,7.0,Norway,https://api.fifa.com/api/v1/picture/flags-sq-4/nor
+54,1998,Italy,2,2,Chile, ,14.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,9.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi
+55,1998,Cameroon,1,1,Austria, ,49.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,31.0,Austria,https://api.fifa.com/api/v1/picture/flags-sq-4/aut
+56,1998,Paraguay,0,0,Bulgaria, ,29.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par,35.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul
+57,1998,Saudi Arabia,0,1,Denmark, ,34.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,27.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den
+58,1998,France,3,0,South Africa, ,18.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,24.0,South Africa,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa
+59,1998,Spain,2,3,Nigeria, ,15.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,,,
+60,1998,Korea Republic,1,3,Mexico, ,20.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,4.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+61,1998,Netherlands,0,0,Belgium, ,25.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,36.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel
+62,1998,Argentina,1,0,Japan, ,6.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,12.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn
+63,1998,Yugoslavia,1,0,Iran, ,8.0,Yugoslavia,https://api.fifa.com/api/v1/picture/flags-sq-4/yug,,,
+64,1998,Jamaica,1,3,Croatia, ,30.0,Jamaica,https://api.fifa.com/api/v1/picture/flags-sq-4/jam,19.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+65,1998,England,2,0,Tunisia, ,5.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,21.0,Tunisia,https://api.fifa.com/api/v1/picture/flags-sq-4/tun
+66,1998,Romania,1,0,Colombia, ,22.0,Romania,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,10.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col
+67,1998,Germany,2,0,USA, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,11.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+68,1998,Scotland,1,1,Norway, ,41.0,Scotland,https://api.fifa.com/api/v1/picture/flags-sq-4/sco,7.0,Norway,https://api.fifa.com/api/v1/picture/flags-sq-4/nor
+69,1998,Brazil,3,0,Morocco, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,13.0,Morocco,https://api.fifa.com/api/v1/picture/flags-sq-4/mar
+70,1998,Chile,1,1,Austria, ,9.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,31.0,Austria,https://api.fifa.com/api/v1/picture/flags-sq-4/aut
+71,1998,Italy,3,0,Cameroon, ,14.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,49.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr
+72,1998,South Africa,1,1,Denmark, ,24.0,South Africa,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,27.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den
+73,1998,France,4,0,Saudi Arabia, ,18.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,34.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa
+74,1998,Nigeria,1,0,Bulgaria, ,,,,35.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul
+75,1998,Spain,0,0,Paraguay, ,15.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,29.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+76,1998,Japan,0,1,Croatia, ,12.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,19.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+77,1998,Belgium,2,2,Mexico, ,36.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,4.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+78,1998,Netherlands,5,0,Korea Republic, ,25.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,20.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+79,1998,Germany,2,2,Yugoslavia, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,8.0,Yugoslavia,https://api.fifa.com/api/v1/picture/flags-sq-4/yug
+80,1998,Argentina,5,0,Jamaica, ,6.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,30.0,Jamaica,https://api.fifa.com/api/v1/picture/flags-sq-4/jam
+81,1998,USA,1,2,Iran, ,11.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,,,
+82,1998,Colombia,1,0,Tunisia, ,10.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col,21.0,Tunisia,https://api.fifa.com/api/v1/picture/flags-sq-4/tun
+83,1998,Romania,2,1,England, ,22.0,Romania,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,5.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+84,1998,Italy,2,1,Austria, ,14.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,31.0,Austria,https://api.fifa.com/api/v1/picture/flags-sq-4/aut
+85,1998,Chile,1,1,Cameroon, ,9.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,49.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr
+86,1998,Scotland,0,3,Morocco, ,41.0,Scotland,https://api.fifa.com/api/v1/picture/flags-sq-4/sco,13.0,Morocco,https://api.fifa.com/api/v1/picture/flags-sq-4/mar
+87,1998,Brazil,1,2,Norway, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,7.0,Norway,https://api.fifa.com/api/v1/picture/flags-sq-4/nor
+88,1998,France,2,1,Denmark, ,18.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,27.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den
+89,1998,South Africa,2,2,Saudi Arabia, ,24.0,South Africa,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,34.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa
+90,1998,Spain,6,1,Bulgaria, ,15.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,35.0,Bulgaria,https://api.fifa.com/api/v1/picture/flags-sq-4/bul
+91,1998,Nigeria,1,3,Paraguay, ,,,,29.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+92,1998,Belgium,1,1,Korea Republic, ,36.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,20.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+93,1998,Netherlands,2,2,Mexico, ,25.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,4.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+94,1998,Germany,2,0,Iran, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,,,
+95,1998,USA,0,1,Yugoslavia, ,11.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,8.0,Yugoslavia,https://api.fifa.com/api/v1/picture/flags-sq-4/yug
+96,1998,Japan,1,2,Jamaica, ,12.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,30.0,Jamaica,https://api.fifa.com/api/v1/picture/flags-sq-4/jam
+97,1998,Argentina,1,0,Croatia, ,6.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,19.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+98,1998,Romania,1,1,Tunisia, ,22.0,Romania,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,21.0,Tunisia,https://api.fifa.com/api/v1/picture/flags-sq-4/tun
+99,1998,Colombia,0,2,England, ,10.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col,5.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+100,1998,Italy,1,0,Norway, ,14.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,7.0,Norway,https://api.fifa.com/api/v1/picture/flags-sq-4/nor
+101,1998,Brazil,4,1,Chile, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,9.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi
+102,1998,France,1,0,Paraguay,France win after extra time ,18.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,29.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+103,1998,Nigeria,1,4,Denmark, ,,,,27.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den
+104,1998,Germany,2,1,Mexico, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,4.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+105,1998,Netherlands,2,1,Yugoslavia, ,25.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,8.0,Yugoslavia,https://api.fifa.com/api/v1/picture/flags-sq-4/yug
+106,1998,Romania,0,1,Croatia, ,22.0,Romania,https://api.fifa.com/api/v1/picture/flags-sq-4/rou,19.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+107,1998,Argentina,2,2,England,Argentina win on penalties (4 - 3) ,6.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,5.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+108,1998,Italy,0,0,France,France win on penalties (3 - 4) ,14.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,18.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+109,1998,Brazil,3,2,Denmark, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,27.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den
+110,1998,Netherlands,2,1,Argentina, ,25.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,6.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+111,1998,Germany,0,3,Croatia, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,19.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+112,1998,Brazil,1,1,Netherlands,Brazil win on penalties (4 - 2) ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,25.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+113,1998,France,2,1,Croatia, ,18.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,19.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+114,1998,Netherlands,1,2,Croatia, ,25.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,19.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+115,1998,Brazil,0,3,France, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,18.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+116,2002,France,0,1,Senegal, ,1.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,42.0,Senegal,https://api.fifa.com/api/v1/picture/flags-sq-4/sen
+117,2002,Uruguay,1,2,Denmark, ,24.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,20.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den
+118,2002,"rn"">Republic of Ireland",1,1,Cameroon, ,,,,17.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr
+119,2002,Germany,8,0,Saudi Arabia, ,11.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,34.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa
+120,2002,Argentina,1,0,Nigeria, ,3.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,27.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+121,2002,Paraguay,2,2,South Africa, ,18.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par,37.0,South Africa,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa
+122,2002,England,1,1,Sweden, ,12.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,19.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe
+123,2002,Spain,3,1,Slovenia, ,8.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,25.0,Slovenia,https://api.fifa.com/api/v1/picture/flags-sq-4/svn
+124,2002,Brazil,2,1,Turkey, ,2.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,22.0,Turkey,https://api.fifa.com/api/v1/picture/flags-sq-4/tur
+125,2002,Italy,2,0,Ecuador, ,6.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,36.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu
+126,2002,Croatia,0,1,Mexico, ,21.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,7.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+127,2002,China PR,0,2,Costa Rica, ,50.0,China PR,https://api.fifa.com/api/v1/picture/flags-sq-4/chn,29.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc
+128,2002,Japan,2,2,Belgium, ,32.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,23.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel
+129,2002,Korea Republic,2,0,Poland, ,40.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,38.0,Poland,https://api.fifa.com/api/v1/picture/flags-sq-4/pol
+130,2002,Russia,2,0,Tunisia, ,28.0,Russia,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,31.0,Tunisia,https://api.fifa.com/api/v1/picture/flags-sq-4/tun
+131,2002,USA,3,2,Portugal, ,13.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,5.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por
+132,2002,Germany,1,1,"rn"">Republic of Ireland", ,11.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,,,
+133,2002,Denmark,1,1,Senegal, ,20.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den,42.0,Senegal,https://api.fifa.com/api/v1/picture/flags-sq-4/sen
+134,2002,Cameroon,1,0,Saudi Arabia, ,17.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,34.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa
+135,2002,France,0,0,Uruguay, ,1.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,24.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru
+136,2002,Sweden,2,1,Nigeria, ,19.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,27.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+137,2002,Argentina,0,1,England, ,3.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,12.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+138,2002,Spain,3,1,Paraguay, ,8.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,18.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+139,2002,South Africa,1,0,Slovenia, ,37.0,South Africa,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,25.0,Slovenia,https://api.fifa.com/api/v1/picture/flags-sq-4/svn
+140,2002,Brazil,4,0,China PR, ,2.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,50.0,China PR,https://api.fifa.com/api/v1/picture/flags-sq-4/chn
+141,2002,Italy,1,2,Croatia, ,6.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,21.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+142,2002,Costa Rica,1,1,Turkey, ,29.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,22.0,Turkey,https://api.fifa.com/api/v1/picture/flags-sq-4/tur
+143,2002,Japan,1,0,Russia, ,32.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,28.0,Russia,https://api.fifa.com/api/v1/picture/flags-sq-4/rus
+144,2002,Mexico,2,1,Ecuador, ,7.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,36.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu
+145,2002,Korea Republic,1,1,USA, ,40.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,13.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+146,2002,Portugal,4,0,Poland, ,5.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por,38.0,Poland,https://api.fifa.com/api/v1/picture/flags-sq-4/pol
+147,2002,Tunisia,1,1,Belgium, ,31.0,Tunisia,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,23.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel
+148,2002,Denmark,2,0,France, ,20.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den,1.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+149,2002,Senegal,3,3,Uruguay, ,42.0,Senegal,https://api.fifa.com/api/v1/picture/flags-sq-4/sen,24.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru
+150,2002,Saudi Arabia,0,3,"rn"">Republic of Ireland", ,34.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,,,
+151,2002,Cameroon,0,2,Germany, ,17.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,11.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+152,2002,Sweden,1,1,Argentina, ,19.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,3.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+153,2002,Nigeria,0,0,England, ,27.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,12.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+154,2002,Slovenia,1,3,Paraguay, ,25.0,Slovenia,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,18.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+155,2002,South Africa,2,3,Spain, ,37.0,South Africa,https://api.fifa.com/api/v1/picture/flags-sq-4/rsa,8.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+156,2002,Costa Rica,2,5,Brazil, ,29.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,2.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+157,2002,Turkey,3,0,China PR, ,22.0,Turkey,https://api.fifa.com/api/v1/picture/flags-sq-4/tur,50.0,China PR,https://api.fifa.com/api/v1/picture/flags-sq-4/chn
+158,2002,Ecuador,1,0,Croatia, ,36.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,21.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+159,2002,Mexico,1,1,Italy, ,7.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,6.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+160,2002,Tunisia,0,2,Japan, ,31.0,Tunisia,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,32.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn
+161,2002,Portugal,0,1,Korea Republic, ,5.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por,40.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+162,2002,Poland,3,1,USA, ,38.0,Poland,https://api.fifa.com/api/v1/picture/flags-sq-4/pol,13.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+163,2002,Belgium,3,2,Russia, ,23.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,28.0,Russia,https://api.fifa.com/api/v1/picture/flags-sq-4/rus
+164,2002,Denmark,0,3,England, ,20.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den,12.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+165,2002,Germany,1,0,Paraguay, ,11.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,18.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+166,2002,Spain,1,1,"rn"">Republic of Ireland",Spain win on penalties (3 - 2) ,8.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,,,
+167,2002,Sweden,1,2,Senegal,Win on Golden Goal ,19.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,42.0,Senegal,https://api.fifa.com/api/v1/picture/flags-sq-4/sen
+168,2002,Brazil,2,0,Belgium, ,2.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,23.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel
+169,2002,Mexico,0,2,USA, ,7.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,13.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+170,2002,Japan,0,1,Turkey, ,32.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,22.0,Turkey,https://api.fifa.com/api/v1/picture/flags-sq-4/tur
+171,2002,Korea Republic,2,1,Italy,Win on Golden Goal ,40.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,6.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+172,2002,England,1,2,Brazil, ,12.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,2.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+173,2002,Germany,1,0,USA, ,11.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,13.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+174,2002,Senegal,0,1,Turkey,Win on Golden Goal ,42.0,Senegal,https://api.fifa.com/api/v1/picture/flags-sq-4/sen,22.0,Turkey,https://api.fifa.com/api/v1/picture/flags-sq-4/tur
+175,2002,Spain,0,0,Korea Republic,Korea Republic win on penalties (3 - 5) ,8.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,40.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+176,2002,Germany,1,0,Korea Republic, ,11.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,40.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+177,2002,Brazil,1,0,Turkey, ,2.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,22.0,Turkey,https://api.fifa.com/api/v1/picture/flags-sq-4/tur
+178,2002,Korea Republic,2,3,Turkey, ,40.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,22.0,Turkey,https://api.fifa.com/api/v1/picture/flags-sq-4/tur
+179,2002,Germany,0,2,Brazil, ,11.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,2.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+180,2006,Germany,4,2,Costa Rica, ,19.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,26.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc
+181,2006,Poland,0,2,Ecuador, ,29.0,Poland,https://api.fifa.com/api/v1/picture/flags-sq-4/pol,39.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu
+182,2006,England,1,0,Paraguay, ,10.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,33.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+183,2006,"rn"">Trinidad and Tobago",0,0,Sweden, ,,,,16.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe
+184,2006,Argentina,2,1,C�te d'Ivoire, ,9.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,,,
+185,2006,"rn"">Serbia and Montenegro",0,1,Netherlands, ,,,,3.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+186,2006,Mexico,3,1,Iran, ,4.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,,,
+187,2006,Angola,0,1,Portugal, ,,,,7.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por
+188,2006,Australia,3,1,Japan, ,42.0,Australia,https://api.fifa.com/api/v1/picture/flags-sq-4/aus,18.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn
+189,2006,USA,0,3,Czech Republic, ,5.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,2.0,Czech Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/cze
+190,2006,Italy,2,0,Ghana, ,13.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,48.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha
+191,2006,Korea Republic,2,1,Togo, ,29.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,,,
+192,2006,France,0,0,Switzerland, ,8.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,35.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+193,2006,Brazil,1,0,Croatia, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,23.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+194,2006,Spain,4,0,Ukraine, ,5.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,45.0,Ukraine,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr
+195,2006,Tunisia,2,2,Saudi Arabia, ,21.0,Tunisia,https://api.fifa.com/api/v1/picture/flags-sq-4/tun,34.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa
+196,2006,Germany,1,0,Poland, ,19.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,29.0,Poland,https://api.fifa.com/api/v1/picture/flags-sq-4/pol
+197,2006,Ecuador,3,0,Costa Rica, ,39.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,26.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc
+198,2006,England,2,0,"rn"">Trinidad and Tobago", ,10.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,,,
+199,2006,Sweden,1,0,Paraguay, ,16.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,33.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+200,2006,Argentina,6,0,"rn"">Serbia and Montenegro", ,9.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,,,
+201,2006,Netherlands,2,1,C�te d'Ivoire, ,3.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,,,
+202,2006,Mexico,0,0,Angola, ,4.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,,,
+203,2006,Portugal,2,0,IR Iran, ,7.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por,23.0,IR Iran,https://api.fifa.com/api/v1/picture/flags-sq-4/irn
+204,2006,Czech Republic,0,2,Ghana, ,2.0,Czech Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/cze,48.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha
+205,2006,Italy,1,1,USA, ,13.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,5.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+206,2006,Japan,0,0,Croatia, ,18.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,23.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+207,2006,Brazil,2,0,Australia, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,42.0,Australia,https://api.fifa.com/api/v1/picture/flags-sq-4/aus
+208,2006,France,1,1,Korea Republic, ,8.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,29.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+209,2006,Togo,0,2,Switzerland, ,,,,35.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+210,2006,Saudi Arabia,0,4,Ukraine, ,34.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,45.0,Ukraine,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr
+211,2006,Spain,3,1,Tunisia, ,5.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,21.0,Tunisia,https://api.fifa.com/api/v1/picture/flags-sq-4/tun
+212,2006,Ecuador,0,3,Germany, ,39.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,19.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+213,2006,Costa Rica,1,2,Poland, ,26.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,29.0,Poland,https://api.fifa.com/api/v1/picture/flags-sq-4/pol
+214,2006,Sweden,2,2,England, ,16.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe,10.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+215,2006,Paraguay,2,0,"rn"">Trinidad and Tobago", ,33.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par,,,
+216,2006,Iran,1,1,Angola, ,,,,,,
+217,2006,Portugal,2,1,Mexico, ,7.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por,4.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+218,2006,Netherlands,0,0,Argentina, ,3.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,9.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+219,2006,C�te d'Ivoire,3,2,"rn"">Serbia and Montenegro", ,,,,,,
+220,2006,Czech Republic,0,2,Italy, ,2.0,Czech Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/cze,13.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+221,2006,Ghana,2,1,USA, ,48.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,5.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+222,2006,Japan,1,4,Brazil, ,18.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+223,2006,Croatia,2,2,Australia, ,23.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,42.0,Australia,https://api.fifa.com/api/v1/picture/flags-sq-4/aus
+224,2006,Ukraine,1,0,Tunisia, ,45.0,Ukraine,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr,21.0,Tunisia,https://api.fifa.com/api/v1/picture/flags-sq-4/tun
+225,2006,Saudi Arabia,0,1,Spain, ,34.0,Saudi Arabia,https://api.fifa.com/api/v1/picture/flags-sq-4/ksa,5.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+226,2006,Togo,0,2,France, ,,,,8.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+227,2006,Switzerland,2,0,Korea Republic, ,35.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,29.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+228,2006,Germany,2,0,Sweden, ,19.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,16.0,Sweden,https://api.fifa.com/api/v1/picture/flags-sq-4/swe
+229,2006,Argentina,2,1,Mexico,Argentina win after extra time ,9.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,4.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+230,2006,England,1,0,Ecuador, ,10.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,39.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu
+231,2006,Portugal,1,0,Netherlands, ,7.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por,3.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+232,2006,Italy,1,0,Australia, ,13.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,42.0,Australia,https://api.fifa.com/api/v1/picture/flags-sq-4/aus
+233,2006,Switzerland,0,0,Ukraine,Ukraine win on penalties (0 - 3) ,35.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,45.0,Ukraine,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr
+234,2006,Brazil,3,0,Ghana, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,48.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha
+235,2006,Spain,1,3,France, ,5.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,8.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+236,2006,Germany,1,1,Argentina,Germany win on penalties (4 - 2) ,19.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,9.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+237,2006,Italy,3,0,Ukraine, ,13.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,45.0,Ukraine,https://api.fifa.com/api/v1/picture/flags-sq-4/ukr
+238,2006,England,0,0,Portugal,Portugal win on penalties (1 - 3) ,10.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,7.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por
+239,2006,Brazil,0,1,France, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,8.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+240,2006,Germany,0,2,Italy,Italy win after extra time ,19.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,13.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+241,2006,Portugal,0,1,France, ,7.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por,8.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+242,2006,Germany,3,1,Portugal, ,19.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,7.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por
+243,2006,Italy,1,1,France,Italy win on penalties (5 - 3) ,13.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,8.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+244,2010,South Africa,1,1,Mexico, ,,,,17.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+245,2010,Uruguay,0,0,France, ,16.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,9.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+246,2010,Korea Republic,2,0,Greece, ,47.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor,13.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre
+247,2010,Argentina,1,0,Nigeria, ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,21.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+248,2010,England,1,1,USA, ,8.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,14.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+249,2010,Algeria,0,1,Slovenia, ,30.0,Algeria,https://api.fifa.com/api/v1/picture/flags-sq-4/alg,25.0,Slovenia,https://api.fifa.com/api/v1/picture/flags-sq-4/svn
+250,2010,Serbia,0,1,Ghana, ,15.0,Serbia,https://api.fifa.com/api/v1/picture/flags-sq-4/srb,32.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha
+251,2010,Germany,4,0,Australia, ,6.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,20.0,Australia,https://api.fifa.com/api/v1/picture/flags-sq-4/aus
+252,2010,Netherlands,2,0,Denmark, ,4.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,36.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den
+253,2010,Japan,1,0,Cameroon, ,45.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,19.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr
+254,2010,Italy,1,1,Paraguay, ,5.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,31.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+255,2010,New Zealand,1,1,Slovakia, ,,,,34.0,Slovakia,https://api.fifa.com/api/v1/picture/flags-sq-4/svk
+256,2010,C�te d'Ivoire,0,0,Portugal, ,,,,3.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por
+257,2010,Brazil,2,1,Korea DPR, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,,,
+258,2010,Honduras,0,1,Chile, ,38.0,Honduras,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,18.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi
+259,2010,Spain,0,1,Switzerland, ,2.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,24.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+260,2010,South Africa,0,3,Uruguay, ,,,,16.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru
+261,2010,Argentina,4,1,Korea Republic, ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,47.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+262,2010,Greece,2,1,Nigeria, ,13.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,21.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+263,2010,France,0,2,Mexico, ,9.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,17.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+264,2010,Germany,0,1,Serbia, ,6.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,15.0,Serbia,https://api.fifa.com/api/v1/picture/flags-sq-4/srb
+265,2010,Slovenia,2,2,USA, ,25.0,Slovenia,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,14.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+266,2010,England,0,0,Algeria, ,8.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,30.0,Algeria,https://api.fifa.com/api/v1/picture/flags-sq-4/alg
+267,2010,Netherlands,1,0,Japan, ,4.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,45.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn
+268,2010,Ghana,1,1,Australia, ,32.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,20.0,Australia,https://api.fifa.com/api/v1/picture/flags-sq-4/aus
+269,2010,Cameroon,1,2,Denmark, ,19.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,36.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den
+270,2010,Slovakia,0,2,Paraguay, ,34.0,Slovakia,https://api.fifa.com/api/v1/picture/flags-sq-4/svk,31.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par
+271,2010,Italy,1,1,New Zealand, ,5.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,,,
+272,2010,Brazil,3,1,C�te d'Ivoire, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,,,
+273,2010,Portugal,7,0,Korea DPR, ,3.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por,,,
+274,2010,Chile,1,0,Switzerland, ,18.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,24.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+275,2010,Spain,2,0,Honduras, ,2.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,38.0,Honduras,https://api.fifa.com/api/v1/picture/flags-sq-4/hon
+276,2010,Mexico,0,1,Uruguay, ,17.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,16.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru
+277,2010,France,1,2,South Africa, ,9.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,,,
+278,2010,Nigeria,2,2,Korea Republic, ,21.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,47.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+279,2010,Greece,0,2,Argentina, ,13.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+280,2010,Slovenia,0,1,England, ,25.0,Slovenia,https://api.fifa.com/api/v1/picture/flags-sq-4/svn,8.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+281,2010,USA,1,0,Algeria, ,14.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,30.0,Algeria,https://api.fifa.com/api/v1/picture/flags-sq-4/alg
+282,2010,Ghana,0,1,Germany, ,32.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,6.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+283,2010,Australia,2,1,Serbia, ,20.0,Australia,https://api.fifa.com/api/v1/picture/flags-sq-4/aus,15.0,Serbia,https://api.fifa.com/api/v1/picture/flags-sq-4/srb
+284,2010,Slovakia,3,2,Italy, ,34.0,Slovakia,https://api.fifa.com/api/v1/picture/flags-sq-4/svk,5.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+285,2010,Paraguay,0,0,New Zealand, ,31.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par,,,
+286,2010,Denmark,1,3,Japan, ,36.0,Denmark,https://api.fifa.com/api/v1/picture/flags-sq-4/den,45.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn
+287,2010,Cameroon,1,2,Netherlands, ,19.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,4.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+288,2010,Portugal,0,0,Brazil, ,3.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+289,2010,Korea DPR,0,3,C�te d'Ivoire, ,,,,,,
+290,2010,Chile,1,2,Spain, ,18.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,2.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+291,2010,Switzerland,0,0,Honduras, ,24.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,38.0,Honduras,https://api.fifa.com/api/v1/picture/flags-sq-4/hon
+292,2010,Uruguay,2,1,Korea Republic, ,16.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,47.0,Korea Republic,https://api.fifa.com/api/v1/picture/flags-sq-4/kor
+293,2010,USA,1,2,Ghana,Ghana win after extra time ,14.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,32.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha
+294,2010,Germany,4,1,England, ,6.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,8.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+295,2010,Argentina,3,1,Mexico, ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,17.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+296,2010,Netherlands,2,1,Slovakia, ,4.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,34.0,Slovakia,https://api.fifa.com/api/v1/picture/flags-sq-4/svk
+297,2010,Brazil,3,0,Chile, ,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,18.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi
+298,2010,Paraguay,0,0,Japan,Paraguay win on penalties (5 - 3) ,31.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par,45.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn
+299,2010,Spain,1,0,Portugal, ,2.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,3.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por
+300,2010,Netherlands,2,1,Brazil, ,4.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,1.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+301,2010,Uruguay,1,1,Ghana,Uruguay win on penalties (4 - 2) ,16.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,32.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha
+302,2010,Argentina,0,4,Germany, ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,6.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+303,2010,Paraguay,0,1,Spain, ,31.0,Paraguay,https://api.fifa.com/api/v1/picture/flags-sq-4/par,2.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+304,2010,Uruguay,2,3,Netherlands, ,16.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,4.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+305,2010,Germany,0,1,Spain, ,6.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,2.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+306,2010,Uruguay,2,3,Germany, ,16.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,6.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+307,2010,Netherlands,0,1,Spain,Spain win after extra time ,4.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,2.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+308,2014,Brazil,3,1,Croatia, ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,20.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+309,2014,Mexico,1,0,Cameroon, ,19.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex,50.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr
+310,2014,Spain,1,5,Netherlands, ,1.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+311,2014,Chile,3,1,Australia, ,13.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi,,,
+312,2014,Colombia,3,0,Greece, ,5.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col,10.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre
+313,2014,Uruguay,1,3,Costa Rica, ,6.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,34.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc
+314,2014,England,1,2,Italy, ,11.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng,9.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita
+315,2014,C�te d'Ivoire,2,1,Japan, ,,,,47.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn
+316,2014,Switzerland,2,1,Ecuador, ,8.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,28.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu
+317,2014,France,3,0,Honduras, ,16.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,30.0,Honduras,https://api.fifa.com/api/v1/picture/flags-sq-4/hon
+318,2014,Argentina,2,1,"rn"">Bosnia and Herzegovina", ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,,,
+319,2014,Germany,4,0,Portugal, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,3.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por
+320,2014,IR Iran,0,0,Nigeria, ,37.0,IR Iran,https://api.fifa.com/api/v1/picture/flags-sq-4/irn,44.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+321,2014,Ghana,1,2,USA, ,38.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha,14.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+322,2014,Belgium,2,1,Algeria, ,12.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,25.0,Algeria,https://api.fifa.com/api/v1/picture/flags-sq-4/alg
+323,2014,Brazil,0,0,Mexico, ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,19.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+324,2014,Russia,1,1,Korea Republic, ,18.0,Russia,https://api.fifa.com/api/v1/picture/flags-sq-4/rus,,,
+325,2014,Australia,2,3,Netherlands, ,,,,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+326,2014,Spain,0,2,Chile, ,1.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp,13.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi
+327,2014,Cameroon,0,4,Croatia, ,50.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,20.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro
+328,2014,Colombia,2,1,C�te d'Ivoire, ,5.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col,,,
+329,2014,Uruguay,2,1,England, ,6.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru,11.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+330,2014,Japan,0,0,Greece, ,47.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,10.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre
+331,2014,Italy,0,1,Costa Rica, ,9.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,34.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc
+332,2014,Switzerland,2,5,France, ,8.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui,16.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+333,2014,Honduras,1,2,Ecuador, ,30.0,Honduras,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,28.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu
+334,2014,Argentina,1,0,IR Iran, ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,37.0,IR Iran,https://api.fifa.com/api/v1/picture/flags-sq-4/irn
+335,2014,Germany,2,2,Ghana, ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,38.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha
+336,2014,Nigeria,1,0,"rn"">Bosnia and Herzegovina", ,44.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,,,
+337,2014,Belgium,1,0,Russia, ,12.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,18.0,Russia,https://api.fifa.com/api/v1/picture/flags-sq-4/rus
+338,2014,Korea Republic,2,4,Algeria, ,,,,25.0,Algeria,https://api.fifa.com/api/v1/picture/flags-sq-4/alg
+339,2014,USA,2,2,Portugal, ,14.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,3.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por
+340,2014,Australia,0,3,Spain, ,,,,1.0,Spain,https://api.fifa.com/api/v1/picture/flags-sq-4/esp
+341,2014,Netherlands,2,0,Chile, ,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,13.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi
+342,2014,Cameroon,1,4,Brazil, ,50.0,Cameroon,https://api.fifa.com/api/v1/picture/flags-sq-4/cmr,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra
+343,2014,Croatia,1,3,Mexico, ,20.0,Croatia,https://api.fifa.com/api/v1/picture/flags-sq-4/cro,19.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+344,2014,Italy,0,1,Uruguay, ,9.0,Italy,https://api.fifa.com/api/v1/picture/flags-sq-4/ita,6.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru
+345,2014,Costa Rica,0,0,England, ,34.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,11.0,England,https://api.fifa.com/api/v1/picture/flags-sq-4/eng
+346,2014,Japan,1,4,Colombia, ,47.0,Japan,https://api.fifa.com/api/v1/picture/flags-sq-4/jpn,5.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col
+347,2014,Greece,2,1,C�te d'Ivoire, ,10.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre,,,
+348,2014,Nigeria,2,3,Argentina, ,44.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+349,2014,"rn"">Bosnia and Herzegovina",3,1,IR Iran, ,,,,37.0,IR Iran,https://api.fifa.com/api/v1/picture/flags-sq-4/irn
+350,2014,Honduras,0,3,Switzerland, ,30.0,Honduras,https://api.fifa.com/api/v1/picture/flags-sq-4/hon,8.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+351,2014,Ecuador,0,0,France, ,28.0,Ecuador,https://api.fifa.com/api/v1/picture/flags-sq-4/ecu,16.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra
+352,2014,USA,0,1,Germany, ,14.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+353,2014,Portugal,2,1,Ghana, ,3.0,Portugal,https://api.fifa.com/api/v1/picture/flags-sq-4/por,38.0,Ghana,https://api.fifa.com/api/v1/picture/flags-sq-4/gha
+354,2014,Korea Republic,0,1,Belgium, ,,,,12.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel
+355,2014,Algeria,1,1,Russia, ,25.0,Algeria,https://api.fifa.com/api/v1/picture/flags-sq-4/alg,18.0,Russia,https://api.fifa.com/api/v1/picture/flags-sq-4/rus
+356,2014,Brazil,1,1,Chile,Brazil win on penalties (3 - 2) ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,13.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi
+357,2014,Colombia,2,0,Uruguay, ,5.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col,6.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru
+358,2014,France,2,0,Nigeria, ,16.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,44.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+359,2014,Brazil,2,1,Colombia, ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,5.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col
+360,2014,France,0,1,Germany, ,16.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+361,2014,Brazil,1,7,Germany, ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+362,2014,Brazil,0,3,Netherlands, ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+363,2014,Germany,1,0,Argentina,Germany win after extra time ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+364,2014,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4) ,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+365,2014,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3) ,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,34.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc
+366,2014,Argentina,1,0,Belgium, ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,12.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel
+367,2014,Netherlands,2,1,Mexico, ,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,19.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+368,2014,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3) ,34.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,10.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre
+369,2014,Argentina,1,0,Switzerland,Argentina win after extra time ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,8.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+370,2014,Belgium,2,1,USA,Belgium win after extra time ,12.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,14.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+371,2014,Brazil,1,1,Chile,Brazil win on penalties (3 - 2) ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,13.0,Chile,https://api.fifa.com/api/v1/picture/flags-sq-4/chi
+372,2014,Colombia,2,0,Uruguay, ,5.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col,6.0,Uruguay,https://api.fifa.com/api/v1/picture/flags-sq-4/uru
+373,2014,Netherlands,2,1,Mexico, ,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,19.0,Mexico,https://api.fifa.com/api/v1/picture/flags-sq-4/mex
+374,2014,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3) ,34.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc,10.0,Greece,https://api.fifa.com/api/v1/picture/flags-sq-4/gre
+375,2014,France,2,0,Nigeria, ,16.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,44.0,Nigeria,https://api.fifa.com/api/v1/picture/flags-sq-4/nga
+376,2014,Argentina,1,0,Switzerland,Argentina win after extra time ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,8.0,Switzerland,https://api.fifa.com/api/v1/picture/flags-sq-4/sui
+377,2014,Belgium,2,1,USA,Belgium win after extra time ,12.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel,14.0,USA,https://api.fifa.com/api/v1/picture/flags-sq-4/usa
+378,2014,France,0,1,Germany, ,16.0,France,https://api.fifa.com/api/v1/picture/flags-sq-4/fra,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+379,2014,Brazil,2,1,Colombia, ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,5.0,Colombia,https://api.fifa.com/api/v1/picture/flags-sq-4/col
+380,2014,Argentina,1,0,Belgium, ,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg,12.0,Belgium,https://api.fifa.com/api/v1/picture/flags-sq-4/bel
+381,2014,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3) ,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,34.0,Costa Rica,https://api.fifa.com/api/v1/picture/flags-sq-4/crc
+382,2014,Brazil,1,7,Germany, ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger
+383,2014,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4) ,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
+384,2014,Brazil,0,3,Netherlands, ,4.0,Brazil,https://api.fifa.com/api/v1/picture/flags-sq-4/bra,15.0,Netherlands,https://api.fifa.com/api/v1/picture/flags-sq-4/ned
+385,2014,Germany,1,0,Argentina,Germany win after extra time ,2.0,Germany,https://api.fifa.com/api/v1/picture/flags-sq-4/ger,7.0,Argentina,https://api.fifa.com/api/v1/picture/flags-sq-4/arg
